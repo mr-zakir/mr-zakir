@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:2b0a5e,65:0a4d8c,100:00f5ff&height=270&section=header&text=ZAKIR&fontSize=84&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Cybersecurity+%7C+Networking+%7C+Full+Stack+%7C+Backend+%7C+Frontend&descSize=19&descColor=c9d1d9&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:2b0a5e,65:0a4d8c,100:00f5ff&height=300&section=header&text=ZAKIR+ULLAH&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity+%7C+Networking+%7C+Full+Stack+%7C+Backend+%7C+Frontend&descSize=19&descColor=c9d1d9&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://github.com/mr-zakir">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=860&height=60&lines=%3E+INITIALIZING+ZAKIR.EXE;%3E+STUDENT+%7C+ETERNAL+LEARNER;%3E+LOADING+MODULE%3A+CYBERSECURITY;%3E+LOADING+MODULE%3A+NETWORKING;%3E+LOADING+MODULE%3A+FULL+STACK;%3E+LOADING+MODULE%3A+BACKEND;%3E+LOADING+MODULE%3A+FRONTEND;%3E+STATUS%3A+LEARNING+ONE+COMMIT+AT+A+TIME" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=860&height=60&lines=Hi+there%2C+I+am+Zakir+Ullah;Student+%7C+Eternal+Learner;Exploring+Cybersecurity;Understanding+Computer+Networking;Learning+Full+Stack+Development;Growing+my+Backend+and+Frontend+skills;One+commit+at+a+time" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -37,13 +37,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:7c3aed,70:00f5ff,100:0d1117&height=70&section=footer&animation=twinkling" width="100%" alt=""/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=false&width=700&height=50&lines=%3E+ABOUT+ME" alt="About Me"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=ABOUT+ME&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="About Me"/>
 
-I'm a university student at the very beginning of my tech journey. I'm learning the basics of everything, one step at a time, and I'm proud to be a beginner. Right now my focus is:
+Hi, I'm **Zakir Ullah**, a university student at the very beginning of my tech journey. I'm learning the basics of everything, one step at a time, and I'm proud to be a beginner. Right now my focus is:
 
 1. 🔐 **Cybersecurity**
 2. 🌐 **Computer Networking**
@@ -55,9 +53,7 @@ I haven't mastered any of these yet, and that's the point of this page: to share
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=false&width=700&height=50&lines=%3E+LEARNING+TRACKS" alt="Learning Tracks"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=LEARNING+TRACKS&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Learning Tracks"/>
 
 <div align="center">
 
@@ -136,9 +132,7 @@ I haven't mastered any of these yet, and that's the point of this page: to share
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=false&width=700&height=50&lines=%3E+TECH+ARSENAL" alt="Tech Arsenal"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=TECH+ARSENAL&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Tech Arsenal"/>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,mysql,html,css,js,react,git,github,vscode&theme=dark&perline=12" alt="Tools"/>
@@ -146,9 +140,7 @@ I haven't mastered any of these yet, and that's the point of this page: to share
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=false&width=700&height=50&lines=%3E+CONTRIBUTION+SNAKE" alt="Contribution Snake"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=CONTRIBUTION+SNAKE&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Contribution Snake"/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mr-zakir/mr-zakir/output/github-snake-dark.svg" alt="Snake eating my contributions" width="800"/>
@@ -156,9 +148,7 @@ I haven't mastered any of these yet, and that's the point of this page: to share
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=false&width=700&height=50&lines=%3E+LIVE+GITHUB+STATS" alt="Live GitHub Stats"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=LIVE+GITHUB+STATS&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Live GitHub Stats"/>
 
 <div align="center">
 
@@ -177,31 +167,31 @@ I haven't mastered any of these yet, and that's the point of this page: to share
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=false&width=700&height=50&lines=%3E+MISSION+GOALS" alt="Mission Goals"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=MISSION+GOALS&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Mission Goals"/>
 
-- [ ] Understand the fundamentals of cybersecurity
-- [ ] Understand how computer networks really work
-- [ ] Understand how a full stack app fits together
-- [ ] Build my first backend project
-- [ ] Build my first frontend project
-- [ ] Ship a complete full stack project
-- [ ] Contribute to open source
+- Understand the fundamentals of cybersecurity
+- Understand how computer networks really work
+- Understand how a full stack app fits together
+- Build my first backend project
+- Build my first frontend project
+- Ship a complete full stack project
+- Contribute to open source
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:7c3aed,70:00f5ff,100:0d1117&height=70&section=footer&animation=twinkling" width="100%" alt=""/>
 
-<h3 align="center">“𝘈𝘭𝘭 𝘵𝘩𝘪𝘴 𝘴𝘵𝘳𝘶𝘨𝘨𝘭𝘦 𝘫𝘶𝘴𝘵 𝘧𝘰𝘳 𝘭𝘪𝘧𝘦 𝘵𝘰 𝘦𝘯𝘥 𝘰𝘯 𝘢 𝘳𝘢𝘯𝘥𝘰𝘮 𝘥𝘢𝘺.”</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=CONNECT+WITH+ME&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Connect With Me"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&repeat=false&width=700&height=50&lines=%3E+LET%27S+CONNECT" alt="Let's Connect"/>
-</div>
 
-I'm still learning, so I'd love to meet other learners and developers. Say hi on [LinkedIn](https://www.linkedin.com/in/meer-zakir-ullah), [X](https://x.com/meer_zakir_nike) or [Discord](https://discord.gg/9jwmfXwg).
+I'm still learning, so I'd love to meet other learners and developers.
 
-<div align="center">
+<br/>
+
+<a href="https://www.linkedin.com/in/meer-zakir-ullah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/meer_zakir_nike"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://discord.gg/9jwmfXwg"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+
+<br/><br/>
 
 <a href="https://github.com/mr-zakir">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&repeat=true&width=560&height=30&lines=Thanks+for+stopping+by!;Every+expert+was+once+a+beginner;See+you+in+the+next+commit" alt="Footer typing"/>
