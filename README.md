@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:2b0a5e,65:0a4d8c,100:00f5ff&height=300&section=header&text=ZAKIR+ULLAH&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity+%7C+Networking+%7C+Full+Stack+%7C+Backend+%7C+Frontend&descSize=19&descColor=c9d1d9&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a52,75:0a4d8c,100:00f5ff&height=300&section=header&text=ZAKIR+ULLAH&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity+%7C+Networking+%7C+Full+Stack+%7C+Backend+%7C+Frontend&descSize=19&descColor=c9d1d9&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://github.com/mr-zakir">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=860&height=60&lines=Hi+there%2C+I+am+Zakir+Ullah;Student+%7C+Eternal+Learner;Exploring+Cybersecurity;Understanding+Computer+Networking;Learning+Full+Stack+Development;Growing+my+Backend+and+Frontend+skills;One+commit+at+a+time" alt="Typing SVG"/>
@@ -11,10 +11,10 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&labelColor=0d1117" alt="Status"/>
-<img src="https://img.shields.io/badge/MODE-LEARNING-a78bfa?style=for-the-badge&labelColor=0d1117" alt="Mode"/>
+<img src="https://img.shields.io/badge/MODE-LEARNING-0a9edc?style=for-the-badge&labelColor=0d1117" alt="Mode"/>
 <img src="https://img.shields.io/badge/LEVEL-BEGINNER-f472b6?style=for-the-badge&labelColor=0d1117" alt="Level"/>
 <img src="https://img.shields.io/github/followers/mr-zakir?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb" alt="Followers"/>
-<img src="https://img.shields.io/github/last-commit/mr-zakir/mr-zakir?style=for-the-badge&label=LAST+UPDATE&labelColor=0d1117&color=7c3aed" alt="Last update"/>
+<img src="https://img.shields.io/github/last-commit/mr-zakir/mr-zakir?style=for-the-badge&label=LAST+UPDATE&labelColor=0d1117&color=0a9edc" alt="Last update"/>
 
 <br/><br/>
 
@@ -37,23 +37,23 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:7c3aed,70:00f5ff,100:0d1117&height=70&section=footer&animation=twinkling" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00f5ff,100:0d1117&height=2" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=ABOUT+ME&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="About Me"/>
+<h2 align="center">👨‍💻 About Me</h2>
 
-Hi, I'm **Zakir Ullah**, a university student at the very beginning of my tech journey. I'm learning the basics of everything, one step at a time, and I'm proud to be a beginner. Right now my focus is:
+<p align="center">
+Hi, I'm <b>Zakir Ullah</b>, a university student at the very beginning of my tech journey.<br/>
+I'm curious about how things work, from keeping systems secure to how the internet moves data to how apps get built.<br/>
+I haven't mastered any of it yet, and that's the point of this page: to share the journey while it happens.
+</p>
 
-1. 🔐 **Cybersecurity**
-2. 🌐 **Computer Networking**
-3. 🧩 **Full Stack Development**
-4. ⚙️ **Backend Development**
-5. 🎨 **Frontend Development**
+<p align="center">
+🎓 University student &nbsp;•&nbsp; 🌱 Beginner, learning step by step &nbsp;•&nbsp; 🤝 Always happy to meet other learners
+</p>
 
-I haven't mastered any of these yet, and that's the point of this page: to share the journey while it happens.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00f5ff,100:0d1117&height=2" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=LEARNING+TRACKS&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Learning Tracks"/>
+<h2 align="center">🗺️ Learning Tracks</h2>
 
 <div align="center">
 
@@ -130,25 +130,23 @@ I haven't mastered any of these yet, and that's the point of this page: to share
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00f5ff,100:0d1117&height=2" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=TECH+ARSENAL&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Tech Arsenal"/>
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,bash,python,nodejs,mysql,html,css,js,react,git,github,vscode&theme=dark&perline=12" alt="Tools"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=CONTRIBUTION+SNAKE&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Contribution Snake"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00f5ff,100:0d1117&height=2" width="100%" alt=""/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mr-zakir/mr-zakir/output/github-snake-dark.svg" alt="Snake eating my contributions" width="800"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00f5ff,100:0d1117&height=2" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=LIVE+GITHUB+STATS&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Live GitHub Stats"/>
+<h2 align="center">📊 Live GitHub Stats</h2>
 
 <div align="center">
 
@@ -165,9 +163,9 @@ I haven't mastered any of these yet, and that's the point of this page: to share
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:7c3aed,50:00f5ff,70:7c3aed,100:0d1117&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00f5ff,100:0d1117&height=2" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=MISSION+GOALS&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Mission Goals"/>
+<h2 align="center">🎯 Mission Goals</h2>
 
 - Understand the fundamentals of cybersecurity
 - Understand how computer networks really work
@@ -177,9 +175,9 @@ I haven't mastered any of these yet, and that's the point of this page: to share
 - Ship a complete full stack project
 - Contribute to open source
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:7c3aed,70:00f5ff,100:0d1117&height=70&section=footer&animation=twinkling" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00f5ff,100:0d1117&height=2" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0d1117,50:3b0f8c,100:0d1117&text=CONNECT+WITH+ME&fontSize=34&fontColor=00f5ff&fontAlignY=50&animation=fadeIn" width="100%" alt="Connect With Me"/>
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 
@@ -199,4 +197,4 @@ I'm still learning, so I'd love to meet other learners and developers.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:2b0a5e,65:0a4d8c,100:00f5ff&height=140&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a52,75:0a4d8c,100:00f5ff&height=140&section=footer&animation=twinkling" width="100%" alt="footer"/>
